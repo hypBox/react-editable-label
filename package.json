@@ -1,0 +1,22 @@
+{
+  "name": "react-editable-label",
+  "version": "1.0.0",
+  "description": "React Editable Label based on Material UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypBox/react-editable-label.git"
+  },
+  "author": "hypBox.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypBox/react-editable-label/issues"
+  },
+  "homepage": "https://github.com/hypBox/react-editable-label#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}
